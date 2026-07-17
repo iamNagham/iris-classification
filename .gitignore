@@ -1,0 +1,4 @@
+Backend/database.env
+.venv/
+Backend/.venv/
+**/__pycache__/
